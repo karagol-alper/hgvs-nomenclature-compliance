@@ -1,0 +1,12 @@
+{
+  "name": "hgvs-nomenclature-compliance",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Builds the Supplementary Information document for the HGVS nomenclature compliance meta-analysis",
+  "scripts": {
+    "build:supp-docx": "node src/build_supp_docx.js"
+  },
+  "dependencies": {
+    "docx": "^9.0.0"
+  }
+}

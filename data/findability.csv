@@ -1,0 +1,9 @@
+tool,search_form,found,n
+ClinVar,exact nomenclature as published,5,18
+ClinVar,published nomenclature with p. dropped,9,18
+LitVar2,exact nomenclature as published,3,18
+LitVar2,gene symbol + c. only,6,18
+Franklin,exact nomenclature as published,2,18
+Franklin,gene symbol + c. only,4,18
+All three tools,exact nomenclature as published,2,18
+Any tool,any search form,15,18

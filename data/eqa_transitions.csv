@@ -1,0 +1,5 @@
+previous_result,outcome,pct_compliant,n
+Correct in previous scheme,nomenclature,58.0,88
+Error in previous scheme,nomenclature,11.6,876
+Correct in previous scheme,reference sequence,63.9,346
+Error in previous scheme,reference sequence,24.3,683

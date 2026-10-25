@@ -1,0 +1,14 @@
+study,year_pub,period,stratum,unit,outcome,events,n,source
+Berwouts 2011,2011,"CF EQA scheme reports (scheme years not stated by the citing source)",Clinical reports (EQA),report,Fully HGVS-compliant nomenclature,139,631,https://pmc.ncbi.nlm.nih.gov/articles/PMC6973115
+Keppens 2020,2020,"ESP + Gen&Tiss EQA 2012-2018",Clinical reports (EQA),variant entry,Fully HGVS-compliant nomenclature,490,4053,https://pmc.ncbi.nlm.nih.gov/articles/PMC6973115
+Lansdon 2026,2026,"GIM/GIMO submissions 2023-2024",Journal manuscripts,manuscript,No critical nomenclature error,0,52,https://academic.oup.com/clinchem/article/72/6/652/8510568
+Lansdon 2026 (c.),2026,"GIM/GIMO submissions 2023-2024",Journal manuscripts (element),manuscript,c. descriptions HGVS-compliant,16,52,https://academic.oup.com/clinchem/article/72/6/652/8510568
+Lansdon 2026 (p.),2026,"GIM/GIMO submissions 2023-2024",Journal manuscripts (element),manuscript,p. descriptions without any error,13,52,https://academic.oup.com/clinchem/article/72/6/652/8510568
+Lansdon 2026 (ref seq),2026,"GIM/GIMO submissions 2023-2024",Journal manuscripts (element),manuscript,Reference sequence provided,27,52,https://academic.oup.com/clinchem/article/72/6/652/8510568
+Keppens 2020 (ref seq),2020,"ESP + Gen&Tiss EQA 2012-2018",Clinical reports (element),report,Any reference sequence provided,1007,1792,https://pmc.ncbi.nlm.nih.gov/articles/PMC6973115
+Keppens 2020 (ref seq current),2020,"ESP + Gen&Tiss EQA 2012-2018",Clinical reports (element),report,LRG/NM reference with current version,572,1792,https://pmc.ncbi.nlm.nih.gov/articles/PMC6973115
+Lefter 2021 (Mutalyzer logs),2021,"Checker submissions Sep 2014-Oct 2019",Checker submissions,description,Correct input (no error or warning),13104000,26000000,https://academic.oup.com/bioinformatics/article/37/18/2811/6128506
+Yen 2017 (c.),2017,"Ground-truth set, tools 2016",Annotation tools,variant,SnpEff-VEP exact c. match,100,108,https://pmc.ncbi.nlm.nih.gov/articles/PMC5267466
+Yen 2017 (p.),2017,"Ground-truth set, tools 2016",Annotation tools,variant,SnpEff-VEP exact p. match,81,108,https://pmc.ncbi.nlm.nih.gov/articles/PMC5267466
+Chen 2025 (c.),2025,"ClinVar Jan 2024; 3 tools",Annotation tools,variant,HGVSc identical across 3 tools (ClinVar transcript),96294,164549,https://www.biorxiv.org/content/10.1101/2024.10.11.617756.full.pdf
+Chen 2025 (p.),2025,"ClinVar Jan 2024; 3 tools",Annotation tools,variant,HGVSp identical across 3 tools (ClinVar transcript),138287,164549,https://www.biorxiv.org/content/10.1101/2024.10.11.617756.full.pdf

@@ -1,0 +1,6 @@
+assessment,pct
+Correct with no warning,50.4
+Correct with warnings,1.2
+Syntactically incorrect,15.8
+Failed semantic analysis,25.4
+Corrected or canonized by Mutalyzer,7.1

@@ -1,0 +1,9 @@
+method,outcome,pct_compliant,n
+Commercial non-NGS,nomenclature,9.6,768
+Non-commercial non-NGS,nomenclature,9.9,717
+Commercial NGS,nomenclature,17.2,147
+Non-commercial NGS,nomenclature,24.6,300
+Commercial non-NGS,reference sequence,25.4,824
+Non-commercial non-NGS,reference sequence,40.0,731
+Commercial NGS,reference sequence,27.6,301
+Non-commercial NGS,reference sequence,32.0,150

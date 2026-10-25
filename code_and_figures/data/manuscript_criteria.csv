@@ -1,0 +1,13 @@
+criterion,critical,small,none,any_error,n
+All gene symbols are italicized,0,19,33,19,52
+All gene symbols have a numeric identifier,44,0,8,44,52
+g. nomenclature is HGVS-compliant,49,0,3,49,52
+A reference sequence is provided,25,0,27,25,52
+c. nomenclature is HGVS-compliant,36,0,16,36,52
+p. nomenclature is HGVS-compliant,12,27,13,39,52
+A genome build has been specified,19,5,22,24,46
+ACMG/AMP variant scoring provided,34,0,15,34,49
+Variants classified per current standards,25,0,24,25,49
+CNVs list ISCN and/or HGVS nomenclature,7,0,2,7,9
+CNV size is indicated,0,7,2,7,9
+Relevant genes within the CNV are indicated,0,7,2,7,9

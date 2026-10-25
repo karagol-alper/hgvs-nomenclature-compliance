@@ -1,0 +1,11 @@
+study,comparison,level,agree,n
+Yen 2017,SnpEff vs VEP (ground-truth set),c.,100,108
+Yen 2017,SnpEff vs VEP (ground-truth set),p.,81,108
+Chen 2025,ANNOVAR vs SnpEff vs VEP (ClinVar transcript),c.,96294,164549
+Chen 2025,ANNOVAR vs SnpEff vs VEP (ClinVar transcript),p.,138287,164549
+Chen 2025,ANNOVAR match to ClinVar HGVSc,c.,123905,164549
+Chen 2025,SnpEff match to ClinVar HGVSc,c.,162574,164549
+Chen 2025,VEP match to ClinVar HGVSc,c.,160764,164549
+Chen 2025,ANNOVAR match to ClinVar HGVSp,p.,161423,164549
+Chen 2025,SnpEff match to ClinVar HGVSp,p.,162245,164549
+Chen 2025,VEP match to ClinVar HGVSp,p.,163068,164549

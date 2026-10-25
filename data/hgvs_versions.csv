@@ -1,0 +1,18 @@
+date,version,type,change
+2026-09-17,21.1.5,patch,No rule change listed
+2026-05-11,21.1.4,patch,Repeat lengths divisible by three only within CDS; SVD-WG011 added; ISCN documentation improved
+2025-06-13,21.1.3,patch,X for unknown amino acid replaced by Xaa; negative examples highlighted
+2025-03-10,21.1.2,patch,SVD-WG010 rejected; history updated
+2025-01-03,21.1.1,patch,Reference sequence wording clarified on substitution page
+2024-11-16,21.1.0,minor,Fusion (adjoined transcript) recommendations organized; spaces not permitted; LOVD syntax checker listed
+2024-08-15,21.0.4,patch,Coding/non-coding identity handling changed; MIT licence
+2024-07-19,21.0.3,patch,Numbering diagram; supernumerary chromosome description fixed
+2024-03-15,21.0.2,patch,syntax.yaml updated
+2024-02-22,21.0.1,patch,indel removed except where listed as not to be used
+2024-01,21.0.0,major,Semantic versioning; new site hgvs-nomenclature.org; HVNC under HUGO; formal grammar; syntax summary; fusion rules aligned with VICC/HGNC/ISCN
+2020-05,20.05,dated,Adjoined transcripts for gene fusions (SVD-WG007); acceptable reference sequences (SVD-WG008)
+2019-01,19.01,dated,Circular DNA (SVD-WG006); methylation gom/lom (SVD-WG005); ISCN named extension (SVD-WG004)
+2015-11,15.11,dated,First YY.MM version; '=' for no change (SVD-WG001); n. coordinates (SVD-WG002); published as the 2016 update (Hum Mutat 37:564)
+2012-11-01,2.121101,dated,Stop-loss with no new stop (ext?); frameshift with unknown stop (fs*?)
+2012-08-31,2.120831,dated,Parentheses may be omitted with experimental evidence; upstream start codon p.Met1ext-5
+2000,1,publication,den Dunnen & Antonarakis 2000 (Hum Mutat 15:7)

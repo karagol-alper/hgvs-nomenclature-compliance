@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the manuscript and this repository."
+title: "Correct use of HGVS nomenclature in clinical variant reporting and literature, 2010-2026: analysis code and data"
+authors:
+  - family-names: Karagöl
+    given-names: Alper
+    orcid: "https://orcid.org/0009-0001-7864-0732"
+    email: akaragol@mit.edu
+    affiliation: "Istanbul University, Istanbul Medical Faculty, Istanbul, Turkey (present address: Broad Institute of MIT and Harvard; Department of Mechanical Engineering, Massachusetts Institute of Technology, Cambridge, MA, USA)"
+  - family-names: Karagöl
+    given-names: Taner
+    orcid: "https://orcid.org/0009-0005-1011-7661"
+    email: karagolt@mit.edu
+    affiliation: "Istanbul University, Istanbul Medical Faculty, Istanbul, Turkey (present address: McGovern Institute for Brain Research, Massachusetts Institute of Technology, Cambridge, MA, USA)"
+version: 1.0.0
+date-released: "2026-10-22"
+license: MIT
+keywords:
+  - HGVS nomenclature
+  - external quality assessment
+  - interrupted time series
+  - meta-analysis
+  - clinical genomics

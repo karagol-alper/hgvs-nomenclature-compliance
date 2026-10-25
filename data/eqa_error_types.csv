@@ -1,0 +1,6 @@
+category,pct,n_total
+Fully compliant,12.1,4053
+Type 1 clerical only (spaces; stop marks; brackets),64.4,4053
+Type 2 (prefix omitted; legacy name; wrong amino-acid code),2.4,4053
+Type 3 (only one level given),2.0,4053
+Combination of error types,19.1,4053
